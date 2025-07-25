@@ -1,18 +1,52 @@
-# 💫 About Me:
-BS Computer Science 4th year<br>Currently Working on ImAged<br>
-
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ricpangan02@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ricpangan02&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ricpangan02&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricpangan02&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# 💫 About Me
+Hi! I'm **Ric Christian B. Pangan**, a 4th-year BS Computer Science student.
+🔭 Currently working on **ImAged** — a WPF image-processing app with a modern dark UI and tabbed features.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=OgDoug&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials  
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ricpangan02@gmail.com)
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,java,python,js,html,react,aws,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Ricpangan02&theme=midnight-purple&hide_border=true&count_private=true&show_icons=true" width="360"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=Ricpangan02&theme=midnight-purple&hide_border=true" width="360"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricpangan02&theme=midnight-purple&hide_border=true&layout=compact" width="360"/>
+    </td>
+  </tr>
+</table>
+
+
+
+---
+
+## 🚀 Featured Projects
+- 🔧 [**ImAged**](https://github.com/Ricpangan02/ImAged): A WPF-based image editor with customizable UI, tabbed tools, and enhanced processing features.
+
+---
+
+## 🏆 Achievements & Badges
+![Profile Views](https://komarev.com/ghpvc/?username=Ricpangan02&color=blueviolet&style=flat)
+![Followers](https://img.shields.io/github/followers/Ricpangan02?label=Follow&style=social)
+
+---
+
+## 📫 Contact Me
+📧 ricpangan02@gmail.com  
+
+---
+
+<!-- Proudly created by Ric Christian B. Pangan -->

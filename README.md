@@ -1,6 +1,6 @@
-# 💫 About Me
+#About Me
 Hi! I'm **Ric Christian B. Pangan**, a 4th-year BS Computer Science student.
-🔭 Currently working on **ImAged** — a WPF image-processing app with a modern dark UI and tabbed features.
+
 
 ---
 
